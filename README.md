@@ -31,3 +31,16 @@ Na classe Pessoa, cria um atributo de classe chamado total_pessoas = 0.
 - Cada vez que crias uma nova Pessoa, incrementa esse contador.
 - Mostra quantas pessoas foram criadas no final.
 ---
+
+## Semana 2 – Métodos Especiais e Encapsulamento
+### Objetivos da Semana
+- Aprender a usar métodos especiais (__init__, __str__, __repr__).
+- Entender o conceito de encapsulamento (proteger atributos).
+- Praticar getters e setters.
+
+### Teoria Rápida
+#### Métodos Especiais
+- __init__ → Construtor, chamado ao criar objeto.
+- __str__ → Retorno quando usas print(obj).
+- __repr__ → Retorno oficial (útil em debug, listas).
+
